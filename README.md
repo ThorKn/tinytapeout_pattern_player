@@ -2,6 +2,10 @@
 
 Go to https://tinytapeout.com for instructions!
 
+# Wokwi project for the pattern_player
+
+https://wokwi.com/projects/341620484740219475
+
 # How to change the Wokwi project
 
 Edit the [Makefile](Makefile) and change the WOKWI_PROJECT_ID to match your project.
